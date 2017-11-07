@@ -1,0 +1,29 @@
+{
+  "name": "aframe-starnest-component",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:urish/aframe-starnest-component.git",
+  "author": "Uri Shaked <uri@salsa4fun.co.il>",
+  "license": "MIT",
+  "scripts": {
+    "build": "buble src/starnest.js > index.js"
+  },
+  "keywords": [
+    "3d",
+    "aframe",
+    "aframe-component",
+    "aframe-vr",
+    "starnest",
+    "space",
+    "stars",
+    "stars",
+    "nebula",
+    "shader",
+    "vr",
+    "webvr"
+  ],
+  "devDependencies": {
+    "buble": "^0.17.0",
+    "chalk": "^2.3.0"
+  }
+}
